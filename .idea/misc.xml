@@ -9,9 +9,6 @@
     <option name="outputPostfix" value="C:\kotlin-compiler-1.1.2-2\kotlinc\bin\kotlinc-js.bat" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectDictionaryState">
-    <dictionary name="SpivEgin" />
-  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="Remote Python 3.4.2 (sftp://fuschiaatinuma@192.168.1.69:22/home/fuschiaatinuma/xP34env0/bin/python3.4)" project-jdk-type="Python SDK" />
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
